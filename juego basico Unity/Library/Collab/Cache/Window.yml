@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/Fuentes.meta
+    - Assets/Fuentes/valorant_font.ttf
+    - Assets/Fuentes/valorant_font.ttf.meta
+    - Assets/Material.meta
+    - Assets/Material/New Material.mat
+    - Assets/Material/New Material.mat.meta
+    - Assets/Material/fin.mat
+    - Assets/Material/fin.mat.meta
+    - Assets/Material/moneda.mat
+    - Assets/Material/moneda.mat.meta
+    - Assets/Material/suelo.mat
+    - Assets/Material/suelo.mat.meta
+    - Assets/Physics Material.meta
+    - Assets/Physics Material/,,,,,.physicMaterial
+    - Assets/Physics Material/,,,,,.physicMaterial.meta
+    - Assets/Physics Material/NoPast.physicMaterial
+    - Assets/Physics Material/NoPast.physicMaterial.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/FInMenu.unity
+    - Assets/Scenes/FInMenu.unity.meta
+    - Assets/Scenes/New Lighting Settings.lighting
+    - Assets/Scenes/New Lighting Settings.lighting.meta
+    - Assets/Scenes/inicio.unity
+    - Assets/Scenes/inicio.unity.meta
+    - Assets/Scenes/nivel 1.meta
+    - Assets/Scenes/nivel 1.unity
+    - Assets/Scenes/nivel 1.unity.meta
+    - Assets/Scenes/nivel 1/LightingData.asset
+    - Assets/Scenes/nivel 1/LightingData.asset.meta
+    - Assets/Scenes/nivel 1/ReflectionProbe-0.exr
+    - Assets/Scenes/nivel 1/ReflectionProbe-0.exr.meta
+    - Assets/Scenes/nivel 2.meta
+    - Assets/Scenes/nivel 2.unity
+    - Assets/Scenes/nivel 2.unity.meta
+    - Assets/Scenes/nivel 2/LightingData.asset
+    - Assets/Scenes/nivel 2/LightingData.asset.meta
+    - Assets/Scenes/nivel 2/ReflectionProbe-0.exr
+    - Assets/Scenes/nivel 2/ReflectionProbe-0.exr.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/FIN.cs
+    - Assets/Scripts/FIN.cs.meta
+    - Assets/Scripts/FInMenu.cs
+    - Assets/Scripts/FInMenu.cs.meta
+    - Assets/Scripts/ItemCollector.cs
+    - Assets/Scripts/ItemCollector.cs.meta
+    - Assets/Scripts/Rotacion.cs
+    - Assets/Scripts/Rotacion.cs.meta
+    - Assets/Scripts/VidaPlayer.cs
+    - Assets/Scripts/VidaPlayer.cs.meta
+    - Assets/Scripts/noMuvment.cs
+    - Assets/Scripts/noMuvment.cs.meta
+    - Assets/Scripts/playerMuve.cs
+    - Assets/Scripts/playerMuve.cs.meta
+    - Assets/Scripts/startMenu.cs
+    - Assets/Scripts/startMenu.cs.meta
+    - Assets/Scripts/waypointSeguir.cs
+    - Assets/Scripts/waypointSeguir.cs.meta
+    - Assets/prefabs.meta
+    - Assets/prefabs/Canvas.prefab
+    - Assets/prefabs/Canvas.prefab.meta
+    - Assets/prefabs/Enemy.prefab
+    - Assets/prefabs/Enemy.prefab.meta
+    - Assets/prefabs/Sphere.prefab
+    - Assets/prefabs/Sphere.prefab.meta
+    - Assets/prefabs/Suelo X.prefab
+    - Assets/prefabs/Suelo X.prefab.meta
+    - Assets/prefabs/Suelo Y.prefab
+    - Assets/prefabs/Suelo Y.prefab.meta
+    - Assets/prefabs/fin.prefab
+    - Assets/prefabs/fin.prefab.meta
+    - Assets/prefabs/player.prefab
+    - Assets/prefabs/player.prefab.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 01010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
